@@ -3,7 +3,7 @@ In-class work for the EDS 220 MEDS course
 
 # EDS 220 In-Class Repository
 
-This repository hosts all the work completed in-class by [YOUR NAME HERE] during the EDS 220 - *Working with Environmental Datasets* lectures.
+This repository hosts all the work completed in-class by Brooke Grazda during the EDS 220 - *Working with Environmental Datasets* lectures.
 
 ## Course Information
 - **Course Title:** EDS 220 - Working with Environmental Datasets
